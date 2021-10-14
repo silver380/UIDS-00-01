@@ -1,0 +1,20 @@
+push 4
+print
+push 3
+push 2
+pop
+pop
+pop
+pop
+push 1
+push 4
+sort
+push 2
+print
+pop
+pop
+pop
+print
+push 7
+print
+finish

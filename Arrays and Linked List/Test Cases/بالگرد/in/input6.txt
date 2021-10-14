@@ -1,0 +1,6 @@
+4 4
+m1 m2 m3 m4
+depart m4
+depart m3
+insert m5 2
+depart m1

@@ -1,0 +1,13 @@
+0 12
+insert m2 0
+insert m4 1
+insert m6 2
+insert m1 0
+insert m3 2
+insert m5 4
+depart m4
+reverse 2 3
+depart m6
+reverse 1 4
+reverse 1 2
+reverse 3 4

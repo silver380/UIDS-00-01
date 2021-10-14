@@ -1,0 +1,26 @@
+5 24
+m1 m2 m3 m4 m5
+relocate m1 0
+relocate m2 0
+relocate m3 0
+relocate m5 0
+relocate m1 2
+relocate m2 4
+relocate m1 -1
+relocate m5 1
+relocate m4 1
+relocate m3 1
+reverse 1 5
+relocate m1 -4
+relocate m2 -2
+reverse 1 3
+reverse 2 5
+depart m5
+relocate m1 -3
+reverse 2 3
+depart m1
+depart m2
+insert m7 0
+insert m8 1
+insert m9 4
+reverse 1 5

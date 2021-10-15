@@ -17,7 +17,7 @@ int main(){
 			n=n-(mn-t-1-i);
 		}
 		mn-=n;
-	 	printf("%d\n",n);
+	 	cout<<n<<endl;
 	 	int sum=0;
 	 	std::vector<int> v;
 	 	for(int j=0;j<n+1;j++){

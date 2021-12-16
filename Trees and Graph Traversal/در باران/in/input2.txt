@@ -1,0 +1,12 @@
+5 5 3
+Dena 0
+Bob 1
+Carol 1
+irith 3
+Erin 1
+Dena Bob
+Dena Carol
+Bob irith
+Carol irith
+irith Erin
+Dena

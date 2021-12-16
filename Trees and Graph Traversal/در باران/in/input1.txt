@@ -1,0 +1,7 @@
+3 2 1
+Nokon 0
+Yellow 1
+White 1
+Nokon Yellow
+Yellow White
+Nokon

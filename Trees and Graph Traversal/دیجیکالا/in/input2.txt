@@ -1,0 +1,19 @@
+1
+AR AB
+EX AB
+
+1
+EX AB
+EX AB
+
+1
+AB AC
+AC DC
+
+1
+DC CF
+BD CD
+
+1
+CF AC
+DC DX
